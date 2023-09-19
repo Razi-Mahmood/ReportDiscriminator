@@ -7,3 +7,5 @@ https://www.kaggle.com/datasets/raddar/chest-xrays-indiana-university?select=ima
 
 The ground truth list of reports are at:
 https://www.kaggle.com/datasets/raddar/chest-xrays-indiana-university?select=indiana_reports.csv
+
+The cell setting the image directory and dataset may have to be customized for wherever you are storing the images as those should not be part of github uploads or downloads
