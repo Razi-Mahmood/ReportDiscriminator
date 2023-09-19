@@ -1,4 +1,4 @@
-Patient ID	Report Name	Images	Findings Present	sentence	Real/Fake
+Patient ID	Report Name	Images	Findings Present/Absent	sentence	Real/Fake
 2310	CXR760.txt	"['760_IM-2310-1001.dcm.png', '760_IM-2310-1002.dcm.png']"	consolidation	"there is minimal hyperexpansion and hyperlucency of the lungs suggestive of chronic lung disease, without focal consolidation, pneumothorax, or effusion identified."	Real
 1707	CXR3504.txt	"['3504_IM-1707-1001.dcm.png', '3504_IM-1707-2001.dcm.png']"	pleura	"the lungs are clear of focal airspace disease, pneumothorax, or pleural effusion."	Real
 2028	CXR3967.txt	"['3967_IM-2028-1001.dcm.png', '3967_IM-2028-2001.dcm.png']"	cavitation	this could indicate cavitation.	Fake
