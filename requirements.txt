@@ -1,0 +1,8 @@
+notebook
+torch torchvision torchaudio
+numpy
+gensim
+nltk
+sentence-transformers
+scikit-learn
+pandas
